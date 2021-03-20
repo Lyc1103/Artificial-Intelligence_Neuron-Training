@@ -1,6 +1,5 @@
 all:
 	cls
-	python LearningAlgorithm_teacher.py
 	python HW_1_CylinderVolume_OneNeuron_Sigmoid.py 100000 0
 	python HW_1_CylinderVolume_OneNeuron_Tanh.py 1000 0
 	python HW_1_CylinderVolume_TwoNeurons_Sigmoid.py 1000 0
