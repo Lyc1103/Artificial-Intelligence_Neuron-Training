@@ -1,6 +1,11 @@
 # Artificial-Intelligence_Neuron-Training
 
----
+> Author : Ya Chen <br>
+> Date : 2021 / 3 / 13
+
+> List : <br>
+>
+> > [If you have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#this-report-contains-) <br> > > [If you <font color = "red">do not</font> have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-do-not-have-the-make-commend-)
 
 ## This report contains :
 
