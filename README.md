@@ -5,7 +5,8 @@
 
 > List : <br>
 >
-> > [If you have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#this-report-contains-) <br> > > [If you <font color = "red">do not</font> have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-do-not-have-the-make-commend-)
+> > [If you have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-have-the-make-commend-) <br>
+> > [If you <font color = "red">do not</font> have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-do-not-have-the-make-commend-)
 
 ## This report contains :
 
