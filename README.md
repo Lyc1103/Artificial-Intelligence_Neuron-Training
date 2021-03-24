@@ -5,14 +5,32 @@
 
 > List : <br>
 >
-> > [If you have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-have-the-make-commend-) <br>
-> > [If you <font color = "red">do not</font> have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-do-not-have-the-make-commend-)
+> > [If you have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-have-the-make-commend-) <br> [If you <font color = "red">do not</font> have the `make` commend](https://github.com/Lyc1103/Artificial-Intelligence_Neuron-Training#if-you-do-not-have-the-make-commend-)
+
+## Description
+
+AlphaGo has won the King of Go, creating a new milestone in artificial intelligence. One of the techniques he used is the <b>Neural Network</b>, and we already know how to <b>"implement a neural-like network to compute mysterious functions".</b><br>
+<br>
+Suppose one day you go to a BetaGo company and start working in the field of <b>"Artificial Intelligence"</b>, and the boss has never worked on Go - no, he has never worked on Neural Network - but he orders you to experiment directly with <b><font color = "red">Neural Network</font></b>, to experience the progress of machine learning, and to report on it for future planning.<br>
+<br>
+You can choose a real application ( like volume of a cylinder, triangle area, etc. ), then set up a small Neural Network with a few neurons, initialize the weights, start training some of the training data, and after a period of time, the training is complete and can be used to predict the new data of the location. At this point, you can tell your BetaGo boss, is it really as good as the experts say it is? How to draw a conclusion?
 
 ## This report contains :
 
-1. training a neuron by Sigmoid and by Tanh
-2. train two neurons by Sigmoid and by Tanh
-3. Training three neurons by Sigmoid
+I choose the <b>Cylindrical Volume</b> application theme to implement the Neural Network.<br>
+And here, I will show some results:
+
+```
+1. training a neuron by <b>Sigmoid</b> and by <b>Tanh</b>
+2. training <b>two</b> neurons by <b>Sigmoid</b> and by <b>Tanh</b>
+3. Training <b>three</b> neurons by Sigmoid
+```
+
+p.s. You will get the detail of my report at <br>
+
+```
+Artificial_Intelligence_Hw1_Written_Report.pdf
+```
 
 <br>
 
