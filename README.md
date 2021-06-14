@@ -21,8 +21,8 @@ I choose the <b>Cylindrical Volume</b> application theme to implement the Neural
 And here, I will show some results:
 
 1. training a neuron by <b>Sigmoid</b> and by <b>Tanh</b>
-2. training<b>two</b> neurons by <b>Sigmoid</b> and by <b>Tanh</b>
-3. Training<b>three</b> neurons by Sigmoid
+2. training <b>two</b> neurons by <b>Sigmoid</b> and by <b>Tanh</b>
+3. Training <b>three</b> neurons by Sigmoid
 
 p.s. You will get the detail of my report at <br>
 
