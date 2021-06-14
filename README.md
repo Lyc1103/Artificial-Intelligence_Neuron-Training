@@ -22,7 +22,7 @@ And here, I will show some results:
 
 1. training a neuron by <b>Sigmoid</b> and by <b>Tanh</b>
 2. training <b>two</b> neurons by <b>Sigmoid</b> and by <b>Tanh</b>
-3. Training <b>three</b> neurons by Sigmoid
+3. Training <b>three</b> neurons by <b>Sigmoid</b>
 
 p.s. You will get the detail of my report at <br>
 
